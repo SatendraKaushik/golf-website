@@ -463,6 +463,9 @@ margin-top: 50px;
     list-style: none;
     cursor: pointer;
     padding-top: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:none;
+    z-index: 10;
 }
 
 #f3 {
